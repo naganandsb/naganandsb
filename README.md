@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naganand Subray Bhat
-- 👀 I’m interested in GUI design, Automation,Machine Learning ,Image processing and Arduino Project. 
+- 👀 I’m interested in Embedded software and systems development, GUI design, Automation,Machine Learning ,Image processing and Arduino Project. 
 - 🌱 I’m currently learning Machine Learning and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : sb.nagananda@gmail.com
